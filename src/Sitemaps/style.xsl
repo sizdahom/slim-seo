@@ -27,7 +27,6 @@
 				margin: 45px auto;
 				display: inline-block;
 				text-align: left;
-				max-width: 800px;
 			}
 			h1 {
 				text-align: center;
